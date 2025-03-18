@@ -1,0 +1,9 @@
+src/Test.Done/bin/
+src/Test.Done/obj/
+src/Done.Core.Tests/bin/
+src/Done.Core.Tests/obj/
+src/Done.Core/bin/
+src/Done.Core/obj/
+/.idea/
+test/Done.Core.Tests/bin/
+test/Done.Core.Tests/obj/
